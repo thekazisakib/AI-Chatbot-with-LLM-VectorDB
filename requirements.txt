@@ -1,0 +1,12 @@
+unstructured
+requests
+tiktoken
+pinecone-client
+pypdf
+openai
+langchain
+pandas 
+numpy
+python-dotenv
+bs4
+sentence-transformers
