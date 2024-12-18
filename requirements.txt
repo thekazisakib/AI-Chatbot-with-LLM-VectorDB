@@ -10,3 +10,5 @@ numpy
 python-dotenv
 bs4
 sentence-transformers
+fastapi==0.95.1
+uvicorn==0.21.1

@@ -1,1 +1,5 @@
 # AI-Chatbot-with-LLM-VectorDB
+
+Pinecone: pcsk_4BATAJ_5atfUQiaFJMnaWAoEoZsbhaWMU48JqsWafiMLG2ESv4k67ayRfhpiusQ3e1Qyyh
+
+SerpApi Key: 26fc6bc21c2bf080cc3bc949318668e75061f71e8c476062b7f4f7979963d87c
